@@ -1,4 +1,4 @@
-# Data-science-Potfolio
+# Indian Retail Market Data  Analysis
 
 In this project we will be working with a dataset which contains the information about retail Prices Of different Commodities
 in India from 2001 to 2021.Here we are trying to analyse the price variation of different commodities in India from 2001 to 2021.
